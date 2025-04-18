@@ -1,1 +1,1 @@
-number = "=+233559690610"
+number = "" #enter number between the qoutation marks
