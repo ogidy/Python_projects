@@ -1,7 +1,7 @@
 # Python Project 1 - Phone Number Location Tracker
 
-This a simple python progam that helps one <br/>determine the country and carrier service of every phone number in the world<br/>
+This a simple python progam that helps one <br/>determine the **country and **carrier service of every phone number in the world<br/>
 To be able to use it type the number in the test file and run the program<br/>
-Kindly intall the <a href="DS-DIGIT.TTF">DS-DIGIT.TTF</a> font style on your PC <br/>
+
 
 PLEASE ENJOY 😊
